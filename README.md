@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Go-1.19+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Go-1.26.0-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Termux/Linux-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Development-yellow?style=for-the-badge" />
 </p>
